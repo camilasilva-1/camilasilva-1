@@ -5,7 +5,7 @@ Estudante de ADS | Back-end | Java | APIs REST |
 Tenho foco no ecossistema Back-end e busco sempre entregar 
 soluções eficientes e colaborar de forma eficaz em equipe.
 
----
+
 
 ## 🛠️ Linguagens e Tecnologias
 
@@ -15,17 +15,12 @@ soluções eficientes e colaborar de forma eficaz em equipe.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+
 
 ## 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilasilva-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilaarruda010@gmail.com)
 
----
 
-## 📊 Estatísticas
 
-![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilasilva-1&show_icons=true&theme=dark&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilasilva-1&layout=donut&theme=dark&locale=pt-br)
