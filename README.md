@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou a Camila! 👩🏾‍💻
 
-<!--
-**camilasilva-1/camilasilva-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de ADS | Back-end | Java | APIs REST | 
 
-Here are some ideas to get you started:
+Tenho foco no ecossistema Back-end e busco sempre entregar 
+soluções eficientes e colaborar de forma eficaz em equipe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📫 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilasilva-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilaarruda010@gmail.com)
+
+---
+
+## 📊 Estatísticas
+
+![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilasilva-1&show_icons=true&theme=dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilasilva-1&layout=donut&theme=dark&locale=pt-br)
