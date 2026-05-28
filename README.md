@@ -1,4 +1,4 @@
-# Olá, eu sou a Camila! 👩🏾‍💻
+# Olá, eu sou a Camila! 
 
 # 💫 About Me:
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. 
