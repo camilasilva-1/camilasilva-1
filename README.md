@@ -1,7 +1,7 @@
 # Olá, eu sou a Camila! 
 
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. 
+Estudante de Análise e Desenvolvimento de Sistemas
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilasilva-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilaarruda010@gmail.com) 
